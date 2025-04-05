@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,number_of_orders,total_orders,fulfillment_summary
+1543,KY: Somerset Fulfillment Center,548,9999,Fulfilled 0-20% of Orders
+9080,KY: Frankfort Fulfillment Center,500,9999,Fulfilled 0-20% of Orders
+2666,MI: Lansing Fulfillment Center,3178,9999,Fulfilled 21-60% of Orders
+8118,MI: Ann Arbor Fulfillment Center,3027,9999,Fulfilled 21-60% of Orders
+4338,TN: Knoxville Fulfillment Center,343,9999,Fulfilled 0-20% of Orders
+6509,TN: Memphis Fulfillment Center,2403,9999,Fulfilled 21-60% of Orders
