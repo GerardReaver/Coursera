@@ -1,4 +1,3 @@
-# CREATION OF THE TEMP TABLE
 WITH longest_used_bike AS (
   SELECT *
   FROM (
